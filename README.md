@@ -40,7 +40,7 @@
     - One can use the other scripts like Duplicator.py(Just to Duplicate Images), Flipper.py(For flippin left to right as part of  Data-agumentaion),Resizer.py(Just to resize the image)
     - To get the better understanding of the traing process view the 2nd link in link section
 
- - For Data Collection
+ - For Making AI Play the Game
     - Just run the Gameplay.py(present in Model'n'GamePlay) model to let the CNN play the game
     - It is supposed to work out of box
     - Because of the failproof mechanism of the pyautogui, when ever the cursor is moved to the corner of the screen the code will auto-terminate
