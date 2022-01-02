@@ -63,7 +63,13 @@
 
 
 
+##Credit
+  - [Marty's Coding Palace](https://www.youtube.com/channel/UCq1NfsnK6fKMFnBOQfNLsCw)
+  
+  - [Tensorflow Example Used](https://www.tensorflow.org/tutorials/load_data/images)
 
+  
+  
 ## 🤝 Support
 
 Contributions, issues, and feature requests are welcome!
