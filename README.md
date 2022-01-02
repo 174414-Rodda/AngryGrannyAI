@@ -35,10 +35,13 @@
   - For Data Collection
     - If one wish to collect your own data, use the Datacollector.py(in DataCollection Folder)
     - Run the Datacollector.py, the script will automatically will take screenshots and store it in the necessary folder
-    - ```Note that input.txt is necessary for the proper functioning and to quite the data collection press 'q' ```
-    - There are 7 classes namely "a","d","right","left","up","down","noop" for the sake of simpliciry both "a" class and "right" likewise for "d" and "right"
+    - There are 7 classes namely "a","d","right","left","up","down","noop" for the sake of simpliciry both "a" class and "right" are merged in final version likewise for "d" and "right"
     - One can use the other scripts like Duplicator.py(Just to Duplicate Images), Flipper.py(For flippin left to right as part of  Data-agumentaion),Resizer.py(Just to resize the image)
     - To get the better understanding of the traing process view the 2nd link in link section
+  
+    - ```Note that input.txt is necessary for the proper functioning and to quite the data collection press 'q' ```
+    - ```A folder of name "data" having "a","d","down","up","right","left","noop" as sub directories should be created manually ```
+    - ```no-op should be taken manually.Press "space" for taking noop screenshots. ```
 
  - For Making CNN Play the Game
     - Just run the Gameplay.py(present in Model'n'GamePlay) model to let the CNN play the game
